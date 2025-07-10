@@ -80,3 +80,22 @@ We can see earnings increase with age and experience, and then decline as retire
 In 1994, career paths were often more linear than today, and pensions or fixed retirement ages may have played a stronger role in shaping this curve.
 
 ![age-income](charts/age_income.png)
+
+## Exploratory Data Analysis - Education Level and Income
+
+To analyze how income varies by educational attainment, I used both the `education` and `education-num` fields. The `education` column contains descriptive levels (e.g., "Bachelors", "HS-grad"), while `education-num` is a numeric variable from 1 to 16 representing the **ordinal level** of education — from "Preschool" to "Doctorate".
+
+I began by creating a pivot table that grouped by `education` and calculated the average of `income_binary` — giving me the **proportion of individuals earning over \$50K** at each education level.
+
+However, by default, the education levels were sorted **alphabetically**, which doesn't reflect the natural progression of schooling. To fix this, I:
+
+1. Created a manual reference table listing each education level with its corresponding `education-num` value (1–16).
+2. Used a `VLOOKUP` to **merge this education-num into the pivot output**, so each category had its correct order number.
+3. Sorted the resulting table by `education-num`, ensuring the education levels followed a logical ascending progression.
+4. Used this sorted table to create a bar chart that visually tracks how income increases with education.
+
+![education-income](charts/education_income.png)
+
+As expected, there is a strong upward trend in income as education level increases. Individuals with **less than a high school diploma** have very low chances of earning over \$50K, while those with a **Bachelor’s degree or higher** see much greater likelihoods — often more than double or triple that of high school graduates.
+
+
