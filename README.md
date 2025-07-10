@@ -43,7 +43,7 @@ This stark difference reflects the persistent gender income gap, which was even 
 
 In 1994, women were entering the workforce in growing numbers but remained concentrated in lower-paying roles and industries. 
 
-![gender-income](charts/gender_income.png)
+![gender-income](charts/sex_income.png)
 
 ### Income by Race
 
