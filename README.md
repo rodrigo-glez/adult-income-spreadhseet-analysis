@@ -98,4 +98,18 @@ However, by default, the education levels were sorted **alphabetically**, which 
 
 As expected, there is a strong upward trend in income as education level increases. Individuals with **less than a high school diploma** have very low chances of earning over \$50K, while those with a **Bachelor’s degree or higher** see much greater likelihoods — often more than double or triple that of high school graduates.
 
+## Inferential Analysis - Income Disparity 
 
+Given the large sample size (over 30,000 individuals) and the noticeable difference in the proportion of men and women earning over $50K (31.38% vs. 11.38%), I expected the difference to be statistically significant.
+
+To formally test this, I performed a two-proportion Z-test:
+
+- Null hypothesis (H₀): Men and women have equal proportions of high income earners.
+
+- Alternative hypothesis (Hₐ): Men have a higher proportion of high income earners than women.
+
+The test yielded a Z-score of 37.6 and a p-value less than 0.0001, confirming the difference is statistically significant.
+
+While the large sample size contributes to the high statistical power, the practically meaningful finding is that men in this dataset are nearly three times as likely to earn over $50K as women, highlighting a clear gender income disparity consistent with the dataset’s historical context.
+
+In general, this large sample size strengthens the reliability of most of the patterns observed throughout the exploratory analysis. The trends we uncovered — whether related to sex, age or education — likely reflect true characteristics of the broader population, not random variation within the sample.
