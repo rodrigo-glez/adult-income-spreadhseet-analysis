@@ -10,6 +10,8 @@ The goal of this analysis is:
 
 This project is part of my learning journey through the [DeepLearning.AI Data Analytics Professional Certificate](https://www.deeplearning.ai/courses/data-analytics/), and serves as an independent initiative to consolidate my knowladge.
 
+The analysis can be found on this Google Sheets link [here](https://docs.google.com/spreadsheets/d/1SgXJ_NF31Wdh373lSayYAlZfaF2aZ2Z4ZmwCLvn4EhQ/edit?usp=sharing), or alternatively in the xlsx file in the repo.
+
 ## Data Cleaning
 
 The original dataset includes 32,561 observations (rows) with 15 features (columns) related to demographic and employment data.
