@@ -1,4 +1,4 @@
-# Adult Income Analysis Practice
+# Google Sheets Practice - Adult Income Analysis
 
 This project explores a sample of U.S. Census data from 1994 to uncover patterns and relationships related to adult income. The dataset includes demographic and employment-related variables, allowing for both descriptive and inferential analysis.
 
