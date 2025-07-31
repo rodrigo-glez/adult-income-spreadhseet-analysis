@@ -2,13 +2,7 @@
 
 This project explores a sample of U.S. Census data from 1994 to uncover patterns and relationships related to adult income. The dataset includes demographic and employment-related variables, allowing for both descriptive and inferential analysis.
 
-The goal of this analysis is:
-
-- To practice fundamental data analytics techniques including data cleaning, exploratory data analysis (EDA), and visualization — all performed in Google Sheets.
-
-- To apply inferential statistics to draw conclusions about the broader U.S. working adult population, using confidence intervals and hypothesis testing.
-
-This project is part of my learning journey through the [DeepLearning.AI Data Analytics Professional Certificate](https://www.deeplearning.ai/courses/data-analytics/), and serves as an independent initiative to consolidate my knowladge.
+The goal of this analysis is to practice fundamental data analytics techniques in Google Sheets - including data cleaning, exploratory data analysis (EDA), and visualization — and to have some fun :)
 
 The analysis can be found on this Google Sheets link [here](https://docs.google.com/spreadsheets/d/1SgXJ_NF31Wdh373lSayYAlZfaF2aZ2Z4ZmwCLvn4EhQ/edit?usp=sharing), or alternatively in the xlsx file in the repo.
 
