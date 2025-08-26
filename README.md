@@ -109,3 +109,9 @@ The test yielded a Z-score of 37.6 and a p-value less than 0.0001, confirming th
 While the large sample size contributes to the high statistical power, the practically meaningful finding is that men in this dataset are nearly three times as likely to earn over $50K as women, highlighting a clear gender income disparity consistent with the dataset’s historical context.
 
 In general, this large sample size strengthens the reliability of most of the patterns observed throughout the exploratory analysis. The trends we uncovered — whether related to sex, age or education — likely reflect true characteristics of the broader population, not random variation within the sample.
+
+## Disclaimer
+
+This project was created as part of my personal learning journey. It’s a practice project, built from scratch on my own initiative. The goal is to experiment, try out ideas, and improve my skills.
+
+Because of that, it may not have a clear practical use case, and some parts might be rough around the edges or not follow best practices yet. I’m sharing it here openly as a way to document my progress and keep learning.
