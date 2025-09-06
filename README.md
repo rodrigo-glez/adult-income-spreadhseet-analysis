@@ -2,7 +2,7 @@
 
 This project explores a sample of U.S. Census data from 1994 to uncover patterns and relationships related to adult income. The dataset includes demographic and employment-related variables, allowing for both descriptive and inferential analysis.
 
-The goal of this analysis is to practice fundamental data analytics techniques in Google Sheets - including data cleaning, exploratory data analysis (EDA), and visualization — and to have some fun :)
+The goal of this analysis is to practice fundamental data analytics techniques in Google Sheets - including data cleaning, exploratory data analysis (EDA), and visualization.
 
 The analysis can be found on this Google Sheets link [here](https://docs.google.com/spreadsheets/d/1SgXJ_NF31Wdh373lSayYAlZfaF2aZ2Z4ZmwCLvn4EhQ/edit?usp=sharing), or alternatively in the xlsx file in the repo.
 
