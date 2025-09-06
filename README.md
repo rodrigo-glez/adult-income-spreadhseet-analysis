@@ -2,7 +2,7 @@
 
 This project explores a sample of U.S. Census data from 1994 to uncover patterns and relationships related to adult income. The dataset includes demographic and employment-related variables, allowing for both descriptive and inferential analysis.
 
-The goal of this analysis is to practice fundamental data analytics techniques in Google Sheets - including data cleaning, exploratory data analysis (EDA), and visualization.
+The goal of this analysis is to practice fundamental data analytics techniques in Google Sheets - including data cleaning, exploratory data analysis (EDA), and visualization. Whiñe some parts are a bit rough or not fully polished.
 
 The analysis can be found on this Google Sheets link [here](https://docs.google.com/spreadsheets/d/1SgXJ_NF31Wdh373lSayYAlZfaF2aZ2Z4ZmwCLvn4EhQ/edit?usp=sharing), or alternatively in the xlsx file in the repo.
 
@@ -109,11 +109,3 @@ The test yielded a Z-score of 37.6 and a p-value less than 0.0001, confirming th
 While the large sample size contributes to the high statistical power, the practically meaningful finding is that men in this dataset are nearly three times as likely to earn over $50K as women, highlighting a clear gender income disparity consistent with the dataset’s historical context.
 
 In general, this large sample size strengthens the reliability of most of the patterns observed throughout the exploratory analysis. The trends we uncovered — whether related to sex, age or education — likely reflect true characteristics of the broader population, not random variation within the sample.
-
-## Disclaimer
-
-This project was created to try out ideas, sharpen my skills, and see what works (and what doesn’t!).
-
-It might not have a practical use case, and some parts may be rough or not fully polished. I’m sharing it to document my learning journey and continue improving.
-
-Thanks for taking a look!
