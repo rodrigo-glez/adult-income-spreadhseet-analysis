@@ -112,6 +112,8 @@ In general, this large sample size strengthens the reliability of most of the pa
 
 ## Disclaimer
 
-This project was created as part of my personal learning journey. It’s a practice project, built from scratch on my own initiative. The goal is to experiment, try out ideas, and improve my skills.
+This project was created to try out ideas, sharpen my skills, and see what works (and what doesn’t!).
 
-Because of that, it may not have a clear practical use case, and some parts might be rough around the edges or not follow best practices yet. I’m sharing it here openly as a way to document my progress and keep learning.
+It might not have a practical use case, and some parts may be rough or not fully polished. I’m sharing it to document my learning journey and continue improving.
+
+Thanks for taking a look!
